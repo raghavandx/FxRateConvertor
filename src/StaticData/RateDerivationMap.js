@@ -1,0 +1,2 @@
+const deriveMap = [{ ccypair: "AUDUSD", value: "D" }, { ccypair: "JPYUSD", value: "Inv" }, { ccypair: "AUDJPY", value: "USD" }, { ccypair: "AUDEUR", value: "USD" }, { ccypair: "USDJPY", value: "D" }, { ccypair: "NOKUSD", value: "EUR" }, { ccypair: "USDAUD", value: "Inv" }, { ccypair: "NOKEUR", value: "Inv" }, { ccypair: "USDEUR", value: "Inv" }, { ccypair: "EURNOK", value: "D" }, { ccypair: "EURUSD", value: "D" }];
+export default deriveMap;
